@@ -1,10 +1,19 @@
-![Elist Logo](eList_Logo_100x100.fw.png) 
-# eList Sales Analysis #
+![Elist Logo](eList_Logo_50x50.fw.png) 
+# Post-Pandemic Sales Analysis #
 
 ** Quick Overview **
 
 # Visuals #
+** Visuals Placeholder **
 
 # Insights #
+** Insights Placeholder **
+ - insight #1
+ - insight #2
+ - insight #3
 
 # Recommendations #
+** Recommendation Placeholder **
+  - recommendation #1
+  - recommendation #2
+  - recommendation #3
