@@ -1,4 +1,4 @@
-![Screenshot of the project](images/eList_Logo.png) 
+![Screenshot of the project](eList_Logo.png) 
 # Elist Sales Analysis #
 
 ** Quick Overview **
