@@ -102,4 +102,4 @@
 
 ---
 
-*Elist Corp · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
+*EList Commerce Inc. · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
