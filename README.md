@@ -1,8 +1,8 @@
 <!-- ![Elist Logo](eList_Logo_100x100.fw.png)-->
 <div align="center"><img src="elist-ppt-banner-logo3.png"></div>
-
+<!--
 # <div align="center">Sales Performance Review</div>
-
+-->
 <div align="center">A structured analysis of sales trends, growth rates, loyalty program ROI, and order economics</div>
 
 <div align="center"><b>Period:</b> Q1 2019 – Q4 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Last updated:</b> Apr 2023</div>
