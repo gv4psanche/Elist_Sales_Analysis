@@ -41,7 +41,7 @@ _	Underscore	5F (%5F)
 
 <table>
  <tr>
-  <td>
+  <td valign="top">
    <div>
     <b>Revenue Growth and Peak Performance:</b>
     <ul>
@@ -59,7 +59,7 @@ _	Underscore	5F (%5F)
     </ul>
    </div>
   </td>
-  <td>
+  <td valign="top">
    <div>
     <b>Quarterly Insights & Seasonal Trends</b>
     <ul>
@@ -94,7 +94,7 @@ _	Underscore	5F (%5F)
 
 ## 2. Monthly & Yearly Growth Rates
 
-### Year-Over-Year Growth Reached 22% — Monthly Declines Show the Trend Is Declining
+### Growth Stalled in Back-Half Months — Annual Rate Fell From 18% to 6%
 
 *Visualization: Dual chart · MoM rate left · YoY rate right*
 
