@@ -1,5 +1,5 @@
 <!-- ![Bits&Bytes Logo](Bits&Bytes_Logo_100x100.fw.png)--><!--img src="Bits&Bytes-ppt-banner-logo3.png"-->
-<div align="center"><a href="#about-the-project"><img src="bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /></a></div>
+<div align="center"><a href="#about-the-project"><img src="images/bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /></a></div>
 
 # <div align="center">Sales Performance Review</div>
 
@@ -13,7 +13,7 @@
 
 <!-- **Strong momentum across all four metrics — three clear actions follow.** -->
 <div align="left">
- <img src="bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
+ <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
 </div>
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
 <!-- https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square (down/red) -->
@@ -39,7 +39,7 @@ _	Underscore	5F (%5F)
 
 *Visualization: Line chart · full period · annotate inflection points*
 <div align="center">
- <img src="bits_and_bytes_chart_revenue_trend.png" width="950" alt="revenue chart" /><br>
+ <img src="images/bits_and_bytes_chart_revenue_trend.png" width="950" alt="revenue chart" /><br>
 </div>
 
 <table>
@@ -94,7 +94,7 @@ _	Underscore	5F (%5F)
 - **Affiliate:** -33% YoY
 
 <div align="center">
- <img src="bits_and_bytes_revenue_by_channel.png" width="950" alt="revenue by channel" /><br>
+ <img src="images/bits_and_bytes_revenue_by_channel.png" width="950" alt="revenue by channel" /><br>
 </div>
 
 <table>
@@ -179,14 +179,14 @@ _	Underscore	5F (%5F)
 ### Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue
 *Note: This period will be excluded from any Refund related analysis*
 <div align="center">
- <img src="bits_and_bytes_chart_refund_trend.png" width="850" alt="revenue chart" /><br>
+ <img src="images/bits_and_bytes_chart_refund_trend.png" width="850" alt="revenue chart" /><br>
 </div>
 
 ### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
 
 *Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
 <div align="center">
- <img src="bits_and_bytes_chart_refrate_aov.png" width="550" alt="revenue chart" /><br>
+ <img src="images/bits_and_bytes_chart_refrate_aov.png" width="550" alt="revenue chart" /><br>
 </div>
 
 - **Realistic Industry Benchmark → 5% - 10%**
@@ -265,12 +265,12 @@ _	Underscore	5F (%5F)
 **B&B’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.  
 
 <div align="center">
- <img src="bits_and_bytes_ERD_diagram.png" width="450" alt="bits&bytes logo" /><br>
+ <img src="images/bits_and_bytes_ERD_diagram.png" width="450" alt="bits&bytes logo" /><br>
  B&B Entity Relationship Diagram (ERD)
 </div>
 <br />
 
-**Note:** The raw data was extracted from an older payment platform (prior to Shopify adoption 2021) that resulted in a "*not so clean*" dataset. See [EDA process](/doc/BB_EDA.pdf) on how the dataset was cleaned and prepared.
+**Note:** The raw data was extracted from an older payment platform (prior to Shopify adoption 2021) that resulted in a "*not so clean*" dataset. See [EDA process](/doc/BB_EDA.pdf) on how the dataset was cleaned and prepared for this analysis.
 
  ### The Ask
 In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **B&B’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that Angie Lopez (Head of Operations) and the various internal cross-functional teams will utilize to streamline processes and enhance **B&B’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
@@ -286,5 +286,5 @@ In coordination with the Head of Operations, an in-depth analysis was conducted 
 ---
 
 <div align="center">
- <img src="bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /><br>
+ <img src="images/bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /><br>
 </div>
