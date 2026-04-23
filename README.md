@@ -176,11 +176,17 @@ _	Underscore	5F (%5F)
 
 ## 4. Refund Rates & Average Order Value
 
-### Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue
+### Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue (*)
 *Note: This period will be excluded from any Refund related analysis*
-<div align="center">
- <img src="images/bits_and_bytes_chart_refund_trend.png" width="850" alt="revenue chart" /><br>
-</div>
+<table>
+ <tr>
+  <td align="center">
+ <img src="images/bits_and_bytes_chart_refund_trend.png" alt="revenue chart" />
+  </td>
+ </tr>
+</table>
+
+<br />
 
 ### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
 
