@@ -94,7 +94,7 @@ _	Underscore	5F (%5F)
 - **Affiliate:** -33% YoY
 
 <div align="center">
- <img src="images/bits_and_bytes_revenue_by_channel.png" width="950" alt="revenue by channel" /><br>
+ <img src="images/bits_and_bytes_sales_by_channel.png" width="950" alt="revenue by channel" /><br>
 </div>
 
 <table>
