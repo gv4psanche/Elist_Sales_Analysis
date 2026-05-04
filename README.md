@@ -110,31 +110,31 @@ _	Underscore	5F (%5F)
 
 <table width"100%">
  <tr>
-  <td valign="top">
+  <td><br>
    <div>
     <ul>
      <li>
-      <b>Direct:</b> 🡻<img src="images/bits_and_bytes_icon_red_downtick.png"> 49% YoY </font>
+      <b>Direct:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 49% YoY </font>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>
      <li>
-      <b>Social Media:</b> 🡻<img src="images/bits_and_bytes_icon_red_downtick.png">56% YoY 
+      <b>Social Media:</b> <img src="images/bits_and_bytes_icon_red_downtick.png">56% YoY 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>
      <li>
-      <b>Email:</b> 🡻<img src="images/bits_and_bytes_icon_red_downtick.png"> 37% YoY 
+      <b>Email:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 37% YoY 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>
      <li>
-      <b>Affiliate:</b> 🡻<img src="images/bits_and_bytes_icon_red_downtick.png"> 33% YoY 
+      <b>Affiliate:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 33% YoY 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>    
      <li>
-      <b>Unknown:</b> 🡹<img src="images/bits_and_bytes_icon_green_uptick.png"> 296% YoY (Need to capture correct channel to get accurate assessment of channel performance!)
+      <b>Unknown:</b> <img src="images/bits_and_bytes_icon_green_uptick.png"> 296% YoY (Need to capture correct channel for this unknown to get accurate assessment of channel performance!)
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>  
