@@ -298,9 +298,6 @@ _	Underscore	5F (%5F)
      <tr><td>Tiered Performance Kits</td><td>→  Instead of selling a single PC, offer "Starter," "Pro," and "Ultra" bundles packages.</td></td></tr>
      <tr><td>Software & Content Add-ons</td><td>→  Bundle high-end GPUs with trending game codes<br> or creative software suites (e.g., Adobe Creative Cloud for workstations).</td></td></tr>
     </table>    
-      <ol>• Bundle deals</ol>
-      <ol>• Gift Cards</ol>
-      <ol>• Free Gift</ol>
     <li>Strategic Upselling & Thresholds</li>
     <table>
      <tr><td>Free Shipping Thresholds</td><td>→  Set free shipping limit approximately 30% above your current AOV.<br>→ Offering free expedited shipping on orders over $2,000.</td></td></tr>
@@ -312,7 +309,8 @@ _	Underscore	5F (%5F)
      <tr><td>One-Click Post-Purchase Upsells</td><td>→  Immediately after purchase, offer a "15-minute only" discount<br> on extended warranties or a premium monitor arm.</td></td></tr>
      <tr><td>Flexible Payment Options (BNPL)</td><td>→  Integrating services like Affirm or Shop Pay Installments<br> can increase AOV by up to 79% for high-ticket items,<br> as it makes expensive workstation builds<br> feel more accessible through monthly payments.</td></td></tr>
      <tr><td>"Pro Tips" in Cart</td><td>→  Add educational messaging like "Pro Tip: This laptop requires...".</td></td></tr>
-    </table>  
+    </table> 
+    <li>Gift Cards & Free Gifts</li>
     </ul>   
   </td>
  </tr>
