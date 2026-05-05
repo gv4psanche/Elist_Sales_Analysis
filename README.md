@@ -68,8 +68,7 @@ _	Underscore	5F (%5F)
      <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
     </ul>
    </div>
-  </td>
-  <td valign="top">
+
    <div>
     <b>Quarterly Insights & Seasonal Trends</b>
     <ul>
