@@ -171,11 +171,29 @@ _	Underscore	5F (%5F)
 
 *Visualization: Member vs. non-member comparison · spend, retention, redemption rate* 
 
-<table><tr><td>
+<table>
+<tr><td>
 <div align="center" border=1>
  <img src="images/bits_and_bytes_sales_by_loyalty.png" alt="loyalty chart" /><br>
 </div>
-</td></tr></table>
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+<div align="center" border=1>
+ <img src="images/bits_and_bytes_volume_by_loyalty.png" alt="loyalty chart" /><br>
+</div>
+</td></tr>
+</table>
+
+ <table>
+ <tr><td>
+<div align="center" border=1>
+ <img src="images/bits_and_bytes_aov_by_loyalty.png" alt="loyalty chart" /><br>
+</div>
+</td></tr>
+</table>
 
 - **Avg. member spend:** $131 vs $94 non-member
 - **Redemption rate:** 64% (up from 41% prior year)
